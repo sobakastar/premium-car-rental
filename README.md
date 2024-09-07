@@ -1,6 +1,10 @@
 # Sobakastar | Rental_07-09-24
- Responsive car rental website from scratch.
 
- HTML, CSS, JS
+## Верстка по макету проекта от Web Design Mastery
+## Layout based on the project layout from Web Design Mastery
 
- ![](./demo.png)
+Responsive car rental website from scratch.
+
+HTML, CSS, JS
+
+![](./demo.png)
